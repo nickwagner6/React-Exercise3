@@ -1,0 +1,19 @@
+.buttons {
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.up {
+  background-color: green;
+}
+
+.down {
+  background-color: red;
+}
